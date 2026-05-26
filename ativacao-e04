@@ -57,7 +57,7 @@
 
           <tr>
             <td class="px-mobile" style="padding:20px 40px 8px 40px;">
-              <a href="{{link_book_demo}}" class="cta" style="background-color:#EB5F22; border-radius:12px; color:#FFFFFF; display:inline-block; font-family:Inter, Arial, Helvetica, sans-serif; font-size:16px; font-weight:700; line-height:16px; text-decoration:none; padding:16px 24px;">Reservar um horário →</a>
+              <a href="https://calendar.app.google/rBXv6pyFpeQjh54G6" class="cta" style="background-color:#EB5F22; border-radius:12px; color:#FFFFFF; display:inline-block; font-family:Inter, Arial, Helvetica, sans-serif; font-size:16px; font-weight:700; line-height:16px; text-decoration:none; padding:16px 24px;">Reservar um horário →</a>
             </td>
           </tr>
 <tr>
