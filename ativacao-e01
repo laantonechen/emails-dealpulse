@@ -39,7 +39,7 @@
 
           <tr>
             <td align="center" style="background-color:#F4EDE3; padding:34px 32px 30px 32px; border-bottom:1px solid #E8D9C7;">
-              <img src="{{url_logo}}" width="172" alt="DealPulse" class="logo" style="display:block; width:172px; max-width:172px; height:auto; margin:0 auto;" />
+              <img src="https://email-editor-production.s3.amazonaws.com/images/684693/dealpulse.jpeg" width="172" alt="DealPulse" class="logo" style="display:block; width:172px; max-width:172px; height:auto; margin:0 auto;" />
             </td>
           </tr>
 
@@ -104,7 +104,7 @@
 
           <tr>
             <td class="px-mobile" style="padding:20px 40px 8px 40px;">
-              <a href="{{link_create_room}}" class="cta" style="background-color:#EB5F22; border-radius:12px; color:#FFFFFF; display:inline-block; font-family:Inter, Arial, Helvetica, sans-serif; font-size:16px; font-weight:700; line-height:16px; text-decoration:none; padding:16px 24px;">Criar minha sala virtual →</a>
+              <a href="https://app.dealpulse.com.br/rooms/new" class="cta" style="background-color:#EB5F22; border-radius:12px; color:#FFFFFF; display:inline-block; font-family:Inter, Arial, Helvetica, sans-serif; font-size:16px; font-weight:700; line-height:16px; text-decoration:none; padding:16px 24px;">Criar minha sala virtual →</a>
             </td>
           </tr>
 <tr>
