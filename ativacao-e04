@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="pt-BR" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>DealPulse</title>
+  <style>
+    body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; }
+    img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    table { border-collapse: collapse !important; }
+    body { margin: 0 !important; padding: 0 !important; width: 100% !important; height: 100% !important; }
+    a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; }
+    @media screen and (max-width: 600px) {
+      .container { width: 100% !important; }
+      .px-mobile { padding-left: 24px !important; padding-right: 24px !important; }
+      .cta { display: block !important; width: 100% !important; box-sizing: border-box !important; text-align: center !important; }
+      .logo { width: 140px !important; }
+      .step-stack { width: 100% !important; }
+      .step-badge-wrap { width: 40px !important; }
+      .bullet-badge-wrap { width: 34px !important; }
+    }</style>
+</head>
+<body style="margin:0; padding:0; background-color:#F6F1EA;">
+  <div style="display:none !important; max-height:0 !important; max-width:0 !important; overflow:hidden !important; opacity:0 !important; mso-hide:all !important; visibility:hidden !important; color:transparent !important; line-height:1px !important; font-size:1px !important; width:0 !important; height:0 !important;">
+    30 minutos com o Founder da DealPulse! &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+  </div>
+
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color:#F6F1EA;">
+    <tr>
+      <td align="center" style="padding:32px 16px;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation" class="container" style="max-width:640px; background-color:#FFFFFF; border-radius:20px; overflow:hidden; box-shadow:0 8px 24px rgba(39,15,15,0.08);">
+          <tr>
+            <td style="background-color:#EB5F22; height:6px; font-size:0; line-height:0;">&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td align="center" style="background-color:#F4EDE3; padding:34px 32px 30px 32px; border-bottom:1px solid #E8D9C7;">
+              <img src="https://email-editor-production.s3.amazonaws.com/images/684693/dealpulsee.png" width="172" alt="DealPulse" class="logo" style="display:block; width:172px; max-width:172px; height:auto; margin:0 auto;" />
+            </td>
+          </tr>
+
+          <tr>
+            <td class="px-mobile" style="padding:40px 40px 8px 40px; font-family:Inter, Arial, Helvetica, sans-serif; color:#270F0F;">
+
+              <p style="margin:0 0 18px 0; font-size:18px; line-height:30px;">Oi, <strong>*|PRIMEIRO_NOME|*</strong>!</p>
+              <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">Você se cadastrou na DealPulse e ainda não criou a primeira sala virtual.</p>
+              <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">Não sei o motivo. Pode ser falta de tempo, uma dúvida técnica, ou simplesmente algo que ainda não ficou claro sobre como usar.</p>
+              <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">E eu gostaria de entender o porquê. Não é cobrança. É que cada pessoa que chega até aqui tem um contexto diferente de vendas, de rotina, de como trabalha. Eu quero saber qual é o seu.</p>
+              <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">Se fizer sentido, me dá 30 minutos. A gente conversa, entendo onde está o obstáculo, e você sai da call com tudo pronto para usar.</p>
+              <p style="margin:0; font-size:17px; line-height:30px;">Ou se preferir, é só responder este e-mail mesmo.</p>
+
+            </td>
+          </tr>
+
+          <tr>
+            <td class="px-mobile" style="padding:20px 40px 8px 40px;">
+              <a href="{{link_book_demo}}" class="cta" style="background-color:#EB5F22; border-radius:12px; color:#FFFFFF; display:inline-block; font-family:Inter, Arial, Helvetica, sans-serif; font-size:16px; font-weight:700; line-height:16px; text-decoration:none; padding:16px 24px;">Reservar um horário →</a>
+            </td>
+          </tr>
+<tr>
+            <td class="px-mobile" style="padding:24px 40px 8px 40px; font-family:Inter, Arial, Helvetica, sans-serif; color:#270F0F;">
+              <p style="margin:0 0 4px 0; font-size:16px; line-height:26px;"><strong>Sidnei Schmidt Junior</strong></p><p style="margin:0; font-size:15px; line-height:24px; color:#6F5A52;">Fundador da DealPulse</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="px-mobile" style="padding:24px 40px 32px 40px; font-family:Inter, Arial, Helvetica, sans-serif; background-color:#FCF9F3; border-top:1px solid #F1E6DA; color:#7A675F; font-size:12px; line-height:18px;">
+              Enviado pela DealPulse, seu radar de oportunidades.<br />
+              Você está recebendo este e-mail porque se cadastrou na plataforma.
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+
