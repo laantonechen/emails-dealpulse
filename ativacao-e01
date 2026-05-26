@@ -1,4 +1,4 @@
-<!doctype html>
+Copy<!doctype html>
 <html lang="pt-BR" xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -21,8 +21,7 @@
       .step-stack { width: 100% !important; }
       .step-badge-wrap { width: 40px !important; }
       .bullet-badge-wrap { width: 34px !important; }
-    }
-  </style>
+    }</style>
 </head>
 <body style="margin:0; padding:0; background-color:#F6F1EA;">
   <div style="display:none !important; max-height:0 !important; max-width:0 !important; overflow:hidden !important; opacity:0 !important; mso-hide:all !important; visibility:hidden !important; color:transparent !important; line-height:1px !important; font-size:1px !important; width:0 !important; height:0 !important;">
@@ -45,19 +44,12 @@
 
           <tr>
             <td class="px-mobile" style="padding:40px 40px 8px 40px; font-family:Inter, Arial, Helvetica, sans-serif; color:#270F0F;">
-              <p style="margin:0 0 18px 0; font-size:18px; line-height:30px;">Oi, <strong>*|Nome|*</strong>!</p>
+
+              <p style="margin:0 0 18px 0; font-size:18px; line-height:30px;">Oi, <strong>*|PRIMEIRO_NOME|*</strong>!</p>
               <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">Você acabou de enviar uma proposta. Agora imagina receber isso no celular:</p>
-
-              <div style="margin:0 0 24px 0; padding:20px 22px; background-color:#FCF9F3; border-left:4px solid #EB5F22; border-radius:12px; font-size:18px; line-height:30px; color:#270F0F; font-style:italic;">
-                “Seu lead está visualizando o material agora.”
-              </div>
-
-              <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">
-                É esse o tipo de dado que muda o timing do follow-up. Você não liga cedo demais. Não liga tarde. Você liga no momento certo, porque sabe exatamente quando o lead está com o material na mão.
-              </p>
-
+              <div style="margin:0 0 24px 0; padding:20px 22px; background-color:#FCF9F3; border-left:4px solid #EB5F22; border-radius:12px; font-size:18px; line-height:30px; color:#270F0F; font-style:italic;">“Seu lead está visualizando o material agora.”</div>
+              <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">É esse o tipo de dado que muda o timing do follow-up. Você não liga cedo demais. Não liga tarde. Você liga no momento certo, porque sabe exatamente quando o lead está com o material na mão.</p>
               <p style="margin:0 0 16px 0; font-size:17px; line-height:30px;">Na DealPulse, isso funciona assim:</p>
-
               <div style="margin:0 0 22px 0; background-color:#FCF9F3; border:1px solid #F1E6DA; border-left:4px solid #EB5F22; border-radius:14px; overflow:hidden; box-shadow: inset 0 1px 0 rgba(255,255,255,0.6);">
                 <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
                   <tr>
@@ -74,7 +66,6 @@
                       </table>
                     </td>
                   </tr>
-
                   <tr>
                     <td style="padding:18px 18px 16px 18px; border-bottom:1px solid #F1E6DA;">
                       <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" class="step-stack">
@@ -89,7 +80,6 @@
                       </table>
                     </td>
                   </tr>
-
                   <tr>
                     <td style="padding:18px 18px 16px 18px;">
                       <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" class="step-stack">
@@ -106,22 +96,17 @@
                   </tr>
                 </table>
               </div>
+              <p style="margin:0; font-size:17px; line-height:30px;">Pronto. A partir daí, cada acesso gera um dado. Você sabe quem abriu, quando abriu e quanto tempo ficou.</p>
 
-              <p style="margin:0; font-size:17px; line-height:30px;">
-                Pronto. A partir daí, cada acesso gera um dado. Você sabe quem abriu, quando abriu e quanto tempo ficou.
-              </p>
             </td>
           </tr>
 
           <tr>
             <td class="px-mobile" style="padding:20px 40px 8px 40px;">
-              <a href="https://app.dealpulse.com.br/rooms/new" class="cta" style="background-color:#EB5F22; border-radius:12px; color:#FFFFFF; display:inline-block; font-family:Inter, Arial, Helvetica, sans-serif; font-size:16px; font-weight:700; line-height:16px; text-decoration:none; padding:16px 24px;">
-                Criar minha sala virtual →
-              </a>
+              <a href="https://app.dealpulse.com.br/rooms/new" class="cta" style="background-color:#EB5F22; border-radius:12px; color:#FFFFFF; display:inline-block; font-family:Inter, Arial, Helvetica, sans-serif; font-size:16px; font-weight:700; line-height:16px; text-decoration:none; padding:16px 24px;">Criar minha sala virtual →</a>
             </td>
           </tr>
-
-          <tr>
+<tr>
             <td class="px-mobile" style="padding:24px 40px 8px 40px; font-family:Inter, Arial, Helvetica, sans-serif; color:#270F0F;">
               <p style="margin:0; font-size:16px; line-height:26px;"><strong>Equipe DealPulse</strong></p>
             </td>
@@ -139,3 +124,5 @@
   </table>
 </body>
 </html>
+
+Copy
