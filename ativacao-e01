@@ -107,15 +107,7 @@
               <a href="{{link_create_room}}" class="cta" style="background-color:#EB5F22; border-radius:12px; color:#FFFFFF; display:inline-block; font-family:Inter, Arial, Helvetica, sans-serif; font-size:16px; font-weight:700; line-height:16px; text-decoration:none; padding:16px 24px;">Criar minha sala virtual →</a>
             </td>
           </tr>
-
-          <tr>
-            <td class="px-mobile" style="padding:8px 40px 0 40px; font-family:Inter, Arial, Helvetica, sans-serif; color:#6F5A52; font-size:13px; line-height:20px;">
-              Se o botão não abrir, copie e cole este link no navegador:<br />
-              <a href="{{link_create_room}}" style="color:#EB5F22; text-decoration:underline; word-break:break-all;">{{link_create_room}}</a>
-            </td>
-          </tr>
-
-          <tr>
+<tr>
             <td class="px-mobile" style="padding:24px 40px 8px 40px; font-family:Inter, Arial, Helvetica, sans-serif; color:#270F0F;">
               <p style="margin:0; font-size:16px; line-height:26px;"><strong>Equipe DealPulse</strong></p>
             </td>
