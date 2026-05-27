@@ -46,7 +46,7 @@
             <td class="px-mobile" style="padding:40px 40px 8px 40px; font-family:Inter, Arial, Helvetica, sans-serif; color:#270F0F;">
 
               <p style="margin:0 0 18px 0; font-size:18px; line-height:30px;">Oi, <strong>*|PRIMEIRO_NOME|*</strong>!</p>
-              <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">Já faz {{inactive_days}} dias que você não acessa a DealPulse.</p>
+              <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">Já faz *|INACTIVE_7D|* dias que você não acessa a DealPulse.</p>
               <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">Nesse tempo, você enviou material por e-mail ou WhatsApp para algum lead. Sabe se ele abriu?</p>
               <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">Suas salas ainda estão ativas. Os links funcionam. E os dados de acesso continuam sendo registrados.</p>
               <p style="margin:0; font-size:17px; line-height:30px;">Entra e vê o que está acontecendo nas suas negociações agora.</p>
