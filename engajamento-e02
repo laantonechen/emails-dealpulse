@@ -46,7 +46,7 @@
             <td class="px-mobile" style="padding:40px 40px 8px 40px; font-family:Inter, Arial, Helvetica, sans-serif; color:#270F0F;">
 
               <p style="margin:0 0 18px 0; font-size:18px; line-height:30px;">Oi, <strong>*|PRIMEIRO_NOME|*</strong>!</p>
-              <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">A última sala que você criou foi {{last_room_title}}.</p>
+              <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">A última sala que você criou foi *|SALA_NOME|*.</p>
               <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">Desde então, você pode ter enviado proposta por anexo para algum lead. Isso significa que você não tem dado de quando ele abriu, se leu, se compartilhou com alguém.</p>
               <p style="margin:0 0 18px 0; font-size:17px; line-height:30px;">Com o link da sala virtual, você tem tudo isso. E a conversa muda de tom.</p>
               <p style="margin:0; font-size:17px; line-height:30px;">Você acessa suas salas, pega o link da mais recente e usa no próximo envio.</p>
